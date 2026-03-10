@@ -26,3 +26,20 @@ h2 {
 font-family: cursive;
 
 }
+
+
+a {
+
+    color:whitesmoke;
+
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: #f9e075;
+
+    text-decoration: underline;
+
+}
